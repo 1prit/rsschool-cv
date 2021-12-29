@@ -1,1 +1,1 @@
-https://1prit.github.io/rsschool-cv/
+https://1prit.github.io/rsschool-cv/cv
