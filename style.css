@@ -1,0 +1,47 @@
+html {
+    scroll-behavior: smooth; 
+  }
+body {
+    font-family: 'Roboto', sans-serif; 
+    color: white;
+    background-image: url(1593744716_11-p-krasivie-foni-dlya-saitov-18.jpg);
+    
+    }
+.body {display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+  }
+* {box-sizing: border-box;}
+
+.header {font-size: 20px; 
+    border: 1px solid red;
+     display: inline-flex;
+    background-color: violet; }
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    align-self: center ;
+    font-size: 70px;
+    text-shadow: purple 5px 5px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding: 0 20px;
+    line-height: 40px;
+  }
+
+  .photo {
+      border-radius: 50%;
+  }
+
+  .footer { background-color: mediumturquoise; 
+    ;
+      
+  }
+  
+  
